@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="background">#ececec</color>
+    <color name="listText">#252525</color>
+    <color name="white">#FFFFFF</color>
+    <color name="food_menu">#2d2d2d</color>
+
+
+    <!-- food menu buttons -->
+    <color name="custom">#dec247</color>
+    <color name="recent">#d18938</color>
+    <color name="add">#de5e47</color>
+    <color name="type">#933a7e</color>
+    <color name="cuisine">#445ab1</color>
+    <color name="brand">#3fae66</color>
+
+
+
+</resources>
